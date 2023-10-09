@@ -4,8 +4,8 @@ import Head from "next/head";
 export const Header: FC = () => {
    return (
       <Head>
-         <title>Numerology App</title>
-         <meta name="description" content="Numerology App" />
+         <title>Kabala Numerology | Công Cụ Xem Nhanh Thần Số Học Free</title>
+         <meta name="description" content="Kabala Numerology: Công Cụ Xem Nhanh Thần Số Học Free dành cho bạn. Bạn chỉ cần nhập Tên và Ngày Sinh để nhận về các con số của riêng mình." />
          <link rel="icon" href="/Images/numerologyPNG.png" />
       </Head>
    );
